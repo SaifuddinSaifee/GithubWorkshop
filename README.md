@@ -74,7 +74,7 @@ Let's start with the hands-on!
 
 To use the features of Git, we initialize a repository using the `git init` command. There are two simple methods to do so:
 
-1. We create a new repository, and we create an empty folder that already has a .git sub-folder in it.
+- **Method 1**: We create a new repository, and we create an empty folder that already has a .git sub-folder in it.
 
     ```bash
     git init LearnGit
@@ -90,7 +90,7 @@ To use the features of Git, we initialize a repository using the `git init` comm
 
     If you already have a folder containing the source code and other files, you may use the second method.
 
-2. We can initialize the repository with an **existing** folder with Git. In cases where you already have a source code and want to leverage the features of Git in that folder. Let's say you have a folder named "MyProject", which contains an HTML file.
+- **Method 2**: We can initialize the repository with an **existing** folder with Git. In cases where you already have a source code and want to leverage the features of Git in that folder. Let's say you have a folder named "MyProject", which contains an HTML file.
 
      1. Navigate to the target folder.
 
