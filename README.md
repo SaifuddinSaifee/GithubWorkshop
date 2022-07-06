@@ -387,4 +387,4 @@ Other developers in the same team should be able to view and contribute to the p
 
 That's the role of remote repositories. So let's create one for our project.
 
-![image](https://user-images.githubusercontent.com/18860009/177608546-23f536f7-06f8-4474-8460-643f7114521a.png)
+![Create a GitHub repository](https://user-images.githubusercontent.com/18860009/177609231-54a98f66-0359-4f8f-8fba-b15e68389fba.png)
