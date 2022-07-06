@@ -386,3 +386,5 @@ collaboration
 Other developers in the same team should be able to view and contribute to the project simultaneously without overwriting each other's work.
 
 That's the role of remote repositories. So let's create one for our project.
+
+![image](https://user-images.githubusercontent.com/18860009/177608546-23f536f7-06f8-4474-8460-643f7114521a.png)
